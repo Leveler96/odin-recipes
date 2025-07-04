@@ -1,0 +1,26 @@
+* {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    text-align: center;
+    color: rgb(56, 39, 16);
+    background-color: rgb(129, 129, 148);
+}
+
+ul {
+    display: table;
+    margin: 0 auto;
+}
+
+ol {
+    display: table;
+    margin: 0 auto;
+    list-style-position: inside;
+}
+
+ .nav-menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    position: fixed;
+    left: 15px;
+}
